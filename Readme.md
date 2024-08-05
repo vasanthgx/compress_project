@@ -85,6 +85,3 @@ This prints the time taken for the compression operation.
 ```rust
 }
 ```
-This closes the `main` function.
-
-Would you like me to explain any part of this code in more detail?
